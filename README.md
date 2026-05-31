@@ -4,7 +4,7 @@
 Antônio Duarte \
 Guilherme Ribeiro \
 João Gabriel \
-Josué Mykael \
+Josué Mykael 
 
 # Tema do projeto:
 investigar a diversidade e a representatividade nos Oscars
