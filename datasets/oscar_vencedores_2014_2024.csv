@@ -1,0 +1,51 @@
+year_film,year_ceremony,ceremony,category,name,film,winner,race_ethnicity,sexual_orientation
+2014,2015,87,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,True,White,Straight
+2014,2015,87,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,True,White,Straight
+2014,2015,87,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,True,White,Straight
+2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,True,White,Straight
+2014,2015,87,DIRECTING,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),True,Hispanic,Straight
+2015,2016,88,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,True,White,Straight
+2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,True,White,Straight
+2015,2016,88,ACTRESS IN A LEADING ROLE,Brie Larson,Room,True,White,Straight
+2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,True,White,Straight
+2015,2016,88,DIRECTING,Alejandro G. Iñárritu,The Revenant,True,Hispanic,Straight
+2016,2017,89,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,True,White,Straight
+2016,2017,89,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,True,Black,Straight
+2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,True,White,Straight
+2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,True,Black,Straight
+2016,2017,89,DIRECTING,Damien Chazelle,La La Land,True,White,Straight
+2017,2018,90,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,True,White,Straight
+2017,2018,90,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",True,White,Straight
+2017,2018,90,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri",True,White,Straight
+2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya",True,White,Straight
+2017,2018,90,DIRECTING,Guillermo del Toro,The Shape of Water,True,Hispanic,Straight
+2018,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,True,Middle Eastern,Straight
+2018,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,True,Black,Straight
+2018,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,True,White,Straight
+2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,True,Black,Straight
+2018,2019,91,DIRECTING,Alfonso Cuarón,Roma,True,Hispanic,Straight
+2019,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,True,White,Straight
+2019,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,True,White,Straight
+2019,2020,92,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,True,White,Straight
+2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,True,White,Straight
+2019,2020,92,DIRECTING,Bong Joon Ho,Parasite,True,Asian,Straight
+2020,2021,93,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Father,True,White,Straight
+2020,2021,93,ACTOR IN A SUPPORTING ROLE,Daniel Kaluuya,Judas and the Black Messiah,True,Black,Straight
+2020,2021,93,ACTRESS IN A LEADING ROLE,Frances McDormand,Nomadland,True,White,Straight
+2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Yuh-Jung Youn,Minari,True,Asian,Straight
+2020,2021,93,DIRECTING,Chloé Zhao,Nomadland,True,Asian,Straight
+2021,2022,94,ACTOR IN A LEADING ROLE,Will Smith,King Richard,True,Black,Straight
+2021,2022,94,ACTOR IN A SUPPORTING ROLE,Troy Kotsur,CODA,True,White,Straight
+2021,2022,94,ACTRESS IN A LEADING ROLE,Jessica Chastain,The Eyes of Tammy Faye,True,White,Straight
+2021,2022,94,ACTRESS IN A SUPPORTING ROLE,Ariana DeBose,West Side Story,True,Hispanic,Bisexual
+2021,2022,94,DIRECTING,Jane Campion,The Power of the Dog,True,White,Straight
+2022,2023,95,ACTOR IN A LEADING ROLE,Brendan Fraser,The Whale,True,White,Straight
+2022,2023,95,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan,Everything Everywhere All at Once,True,Asian,Straight
+2022,2023,95,ACTRESS IN A LEADING ROLE,Michelle Yeoh,Everything Everywhere All at Once,True,Asian,Straight
+2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis,Everything Everywhere All at Once,True,White,Straight
+2022,2023,95,DIRECTING,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,True,Multiracial,Straight
+2023,2024,96,ACTOR IN A LEADING ROLE,Cillian Murphy,Oppenheimer,True,White,Straight
+2023,2024,96,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Oppenheimer,True,White,Straight
+2023,2024,96,ACTRESS IN A LEADING ROLE,Emma Stone,Poor Things,True,White,Straight
+2023,2024,96,ACTRESS IN A SUPPORTING ROLE,Da'Vine Joy Randolph,The Holdovers,True,Black,Straight
+2023,2024,96,DIRECTING,Christopher Nolan,Oppenheimer,True,White,Straight
